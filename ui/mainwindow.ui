@@ -307,13 +307,13 @@
   <customwidget>
    <class>vd::SdlRenderer</class>
    <extends>QWidget</extends>
-   <header location="global">vd/sdl.hpp</header>
+   <header location="global">sdl.hpp</header>
    <container>1</container>
   </customwidget>
   <customwidget>
    <class>vd::TimeLineWidget</class>
    <extends>QWidget</extends>
-   <header location="global">vd/timeline.hpp</header>
+   <header location="global">timeline.hpp</header>
    <container>1</container>
   </customwidget>
  </customwidgets>
